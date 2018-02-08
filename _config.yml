@@ -12,7 +12,7 @@ baseurl: '/n00blet.github.io' #change it according to your repository name
 #Profile information
 name: Rakshith Ponnappa
 tagline: Android App Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
 commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
@@ -20,8 +20,8 @@ montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu
 
 #sidebar links
 email: pritam.rakshi@gmail.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
+#phone: 012 345 6789
+#website:  #do not add http://
 linkedin: rakshith-b-ponnappa-73a22223
 github: n00blet
 #twitter: ''
